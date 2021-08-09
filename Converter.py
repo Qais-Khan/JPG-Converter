@@ -1,4 +1,4 @@
-# Import relevant modules
+# Import modules
 import sys
 import os
 from PIL import Image
